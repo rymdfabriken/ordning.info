@@ -8,7 +8,7 @@ Ordning.info är helt enkelt en väldigt enkel hemsida, eftersom Ulf Kristersson
 
 För att göra det enkelt att hitta till har vi tagit fram kampanjmaterial, i form av stickers med en qr-kod.
 
-[![](sticker-thumbnail@72dpi.png)](sticker52x50@300dpi.png)
+[![](sticker-thumbnail@72dpi.png)](sticker50x52@300dpi.png)
 
 ## Nu får vi ordning på Sverige!
 
