@@ -36,5 +36,5 @@ Du kan förhandsbeställa ett exemplar av **Nu får vi ordning på Sverige!** i 
 
 Det går också att stödja ordning.info genom [Rymdfabrikens patreon](https://www.patreon.com/join/rymdfabriken/checkout?rid=9269943).
 
-Vi tar dessutom emot donationer via Paypal och Bitcoin.
+Vi tar dessutom emot donationer via [Paypal](https://www.paypal.com/donate/?hosted_button_id=HWLUYKEQVN7TA) och [Bitcoin](bitcoin:BC1QAU7FGWTT36D84PTLDRRRDUN97WGPT64AN0LDPJ?label=Ordning%21&message=St%C3%B6d%20till%20rf_press).
 
