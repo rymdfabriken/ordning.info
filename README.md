@@ -22,7 +22,19 @@ Eftersom vi på Rymdfabriken alltid har haft en speciell relation till döda tr�
 
 Hédi Fried förtjänar inte bara att minnas i finare sammanhang, hennes arbete förtjänar att förvaltas. Besök [hedifried.se](https://www.hedifried.se) och se vad du kan göra.
 
-## Hjälp till
+## Gör något
 
 Ordning.info behöver översättare, kodgranskare, tillgänglighetsexpertis och kollaboratörer. Skriv till [peter.rymdfabriken+ordning@gmail.com](mailto:peter.rymdfabriken+ordning@gmail.com) så pratar vi.
+
+Annars går det alldeles utmärkt att använda [den högupplösta png-filen](sticker50x52@300dpi.png) och trycka stickers åt sig själv.
+
+### Köp något
+
+Du kan förhandsbeställa ett exemplar av **Nu får vi ordning på Sverige!** i [Rymdfabrikens webshop](https://shop.rymdfabriken.org/product/forbestallning-nu-far-vi-ordning-pa-sverige) (Paypal eller kortbetalning). Vi kan tyvärr inte lova leverans före julafton.
+
+### Skänk något
+
+Det går också att stödja ordning.info genom [Rymdfabrikens patreon](https://www.patreon.com/join/rymdfabriken/checkout?rid=9269943).
+
+Vi tar dessutom emot donationer via Paypal och Bitcoin.
 
