@@ -14,15 +14,27 @@ För att göra det enkelt att hitta till har vi tagit fram kampanjmaterial, i fo
 
 Det finns mycket att säga om bilden på Ulf Kristersson och Hédi Fried. Peter Karlsson (@rymdpeter) skrev en bok. Den heter kort och gott **Nu får vi ordning på Sverige!** (ISBN 978-91-986241-2-0) och är utgiven i samarbete med Rymdhål Förlag. Boken innehåller bilden och relevant inbäddad metadata, läsbar av en maskin ([Läs mer om vad detta innebär](https://en.wikipedia.org/wiki/Binary-to-text_encoding)). Mycket mer finns inte att säga om Ulf Kristersson. Förlaget har trots det följande att säga om boken:
 
-    *Peter Karlsson (Författare, entreprenör och designer) har sammanställt en närmast komplett redogörelse över Ulf Kristerssons roll i svensk politik, med målsättningen att på ett framtidssäkert sätt förvalta dennes arv till Sveriges demokratiska tradition. Civilekonomen och Moderatledaren Ulf Kristersson är den politiker som för alltid kommer förknippas med Det Konservativa Blockets tillkomst. Kristerssons unikt fotogeniska gestalt symboliserar på ett utomordentligt sätt Moderaternas värdegrund: Att samhället måste bygga på ett kontrakt är lika delar socialt och juridiskt. Att exempelvis ta någon i hand innefattar respekt för dessa båda aspekter av ett slutet avtal, det vill säga grunden för ett tryggt samhälle med en fungerande, fri ekonomi.*
+*Peter Karlsson (Författare, entreprenör och designer) har sammanställt en närmast komplett redogörelse över Ulf Kristerssons roll i svensk politik, med målsättningen att på ett framtidssäkert sätt förvalta dennes arv till Sveriges demokratiska tradition. Civilekonomen och Moderatledaren Ulf Kristersson är den politiker som för alltid kommer förknippas med Det Konservativa Blockets tillkomst. Kristerssons unikt fotogeniska gestalt symboliserar på ett utomordentligt sätt Moderaternas värdegrund: Att samhället måste bygga på ett kontrakt är lika delar socialt och juridiskt. Att exempelvis ta någon i hand innefattar respekt för dessa båda aspekter av ett slutet avtal, det vill säga grunden för ett tryggt samhälle med en fungerande, fri ekonomi.*
 
-Eftersom vi på Rymdfabriken alltid har haft en speciell relation till döda träd så finns möjligheten att stötta projektet genom att köpa ett fysiskt exemplar av **Nu får vi ordning på Sverige!**. Är man bara nyfiken kan man ladda hem ett exemplar som pdf eller epub.
+Eftersom vi på Rymdfabriken alltid har haft en speciell relation till döda träd så finns möjligheten att stötta projektet genom att köpa ett fysiskt exemplar av **Nu får vi ordning på Sverige!**. Är man bara nyfiken kan man ladda hem ett exemplar som [pdf](nu-far-vi-ordning-pa-Sverige_-_Peter-Karlsson.pdf).
 
 ## Mer om Hédi Fried
 
 Hédi Fried förtjänar inte bara att minnas i finare sammanhang, hennes arbete förtjänar att förvaltas. Besök [hedifried.se](https://www.hedifried.se) och se vad du kan göra.
 
-## Hjälp till
+## Gör något
 
 Ordning.info behöver översättare, kodgranskare, tillgänglighetsexpertis och kollaboratörer. Skriv till [peter.rymdfabriken+ordning@gmail.com](mailto:peter.rymdfabriken+ordning@gmail.com) så pratar vi.
+
+Annars går det alldeles utmärkt att använda [den högupplösta png-filen](sticker50x52@300dpi.png) och trycka stickers åt sig själv.
+
+### Köp något
+
+Du kan förhandsbeställa ett exemplar av **Nu får vi ordning på Sverige!** i [Rymdfabrikens webshop](https://shop.rymdfabriken.org/product/forbestallning-nu-far-vi-ordning-pa-sverige) (Paypal eller kortbetalning). Vi kan tyvärr inte lova leverans före julafton.
+
+### Skänk något
+
+Det går också att stödja ordning.info genom [Rymdfabrikens patreon](https://www.patreon.com/join/rymdfabriken/checkout?rid=9269943).
+
+Vi tar dessutom emot donationer via Paypal och Bitcoin.
 
