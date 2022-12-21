@@ -16,7 +16,7 @@ Det finns mycket att säga om bilden på Ulf Kristersson och Hédi Fried. Peter 
 
 *Peter Karlsson (Författare, entreprenör och designer) har sammanställt en närmast komplett redogörelse över Ulf Kristerssons roll i svensk politik, med målsättningen att på ett framtidssäkert sätt förvalta dennes arv till Sveriges demokratiska tradition. Civilekonomen och Moderatledaren Ulf Kristersson är den politiker som för alltid kommer förknippas med Det Konservativa Blockets tillkomst. Kristerssons unikt fotogeniska gestalt symboliserar på ett utomordentligt sätt Moderaternas värdegrund: Att samhället måste bygga på ett kontrakt är lika delar socialt och juridiskt. Att exempelvis ta någon i hand innefattar respekt för dessa båda aspekter av ett slutet avtal, det vill säga grunden för ett tryggt samhälle med en fungerande, fri ekonomi.*
 
-Eftersom vi på Rymdfabriken alltid har haft en speciell relation till döda träd så finns möjligheten att stötta projektet genom att köpa ett fysiskt exemplar av **Nu får vi ordning på Sverige!**. Är man bara nyfiken kan man ladda hem ett exemplar som [pdf](nu-far-vi-ordning-pa-Sverige_-_Peter-Karlsson.pdf).
+Eftersom vi på Rymdfabriken alltid har haft en speciell relation till döda träd så finns möjligheten att stötta projektet genom att köpa ett fysiskt exemplar av [**Nu får vi ordning på Sverige!**](https://webshop.publit.com/sv/webshop/4872). Är man bara nyfiken kan man ladda hem ett exemplar som [pdf](nu-far-vi-ordning-pa-Sverige_-_Peter-Karlsson.pdf).
 
 ## Mer om Hédi Fried
 
