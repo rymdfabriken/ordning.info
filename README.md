@@ -30,7 +30,7 @@ Annars går det alldeles utmärkt att använda [den högupplösta png-filen](sti
 
 ### Köp något
 
-Ett annat roligt sätt att delta är att köpa ett exemplar av **Nu får vi ordning på Sverige!** i [den särskilda webshop](https://webshop.publit.com/sv/webshop/4872) (Paypal eller kortbetalning). Vi kan tyvärr inte lova leverans före julafton.
+Ett annat roligt sätt att delta är att köpa ett exemplar av [**Nu får vi ordning på Sverige!**](https://webshop.publit.com/sv/webshop/4872) (Paypal eller kortbetalning). Vi kan tyvärr inte lova leverans före julafton.
 
 ### Skänk något
 
