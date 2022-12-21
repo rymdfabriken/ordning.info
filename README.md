@@ -1,6 +1,6 @@
 # ordning.info
 
-Ordning.info förvaltar arvet efter Ulf Kristersson. För det tycker vi är viktigt. Vi tycker att varje gång en redaktör väljer att publicera någon annan bild av Ulf Kristersson än den när han trycker Hédi Frieds hand, så gör den redaktören ett tvivelaktigt redaktörsarbete. Om vi fick bestämma skulle Ulf Kristersson aldrig någonsin få en fråga om någonting annat så länge han lever. Moderaterna får också gärna svara på frågan varför man lät en så uppenbart skrupellös bedragare sitta kvar på sin post efter att ha begått ett sådant hånfullt övergrepp på det offentliga samtalatet. 
+Ordning.info förvaltar arvet efter Ulf Kristersson. För det tycker vi är viktigt. Vi tycker att varje gång en redaktör väljer att publicera någon annan bild av Ulf Kristersson än den när han trycker Hédi Frieds hand, så gör den redaktören ett tvivelaktigt redaktörsarbete. Om vi fick bestämma skulle Ulf Kristersson aldrig någonsin få en fråga om någonting annat så länge han lever. Moderaterna får också gärna svara på frågan varför man lät en så uppenbart skrupellös bedragare sitta kvar på sin post efter att ha begått ett sådant hånfullt övergrepp på det offentliga samtalet. 
 
 För att göra det lätt har vi satt upp https://ordning.info, där bilden alltid finns tillgänglig. Med korrekt angiven upphovsperson (Paul Hansen), Källa (Dagens Nyheter), samt en skärmläsarvänlig bildbeskrivning.
 
